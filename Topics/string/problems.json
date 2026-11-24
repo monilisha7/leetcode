@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-24T15:09:37.789Z",
+  "updatedAt": "2026-11-24T15:10:17.535Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,7 +103,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "b36688b61c1f03178cce4978cb9494b45d01d3b9",
-          "lastSyncedAt": "2026-11-24T15:07:23.713Z"
+          "lastSyncedAt": "2026-11-24T15:10:17.535Z"
         }
       ]
     }
