@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T15:07:46.636Z",
+  "updatedAt": "2026-11-24T15:07:58.411Z",
   "problems": [
     {
       "frontendId": "14",
@@ -84,6 +84,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.java",
           "sha": "31a03db00b201496a2005b0053b5dace83d089e4",
           "lastSyncedAt": "2026-11-24T15:05:22.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0121-best-time-to-buy-and-sell-stock.java",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
+          "sha": "1e1e6e7a4a3a3c17102e89de5f07b75ea07b5922",
+          "lastSyncedAt": "2026-11-24T15:07:58.411Z"
         }
       ]
     },
