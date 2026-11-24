@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-24T15:06:41.638Z",
+  "updatedAt": "2026-11-24T15:06:50.776Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0155-min-stack.java",
+          "path": "0155-min-stack/0155-min-stack.java",
+          "sha": "07b5cc3de59d80cccf81fedd22289a1861ff5da7",
+          "lastSyncedAt": "2026-11-24T15:06:50.776Z"
+        }
+      ]
+    },
     {
       "frontendId": "707",
       "title": "Design Linked List",
