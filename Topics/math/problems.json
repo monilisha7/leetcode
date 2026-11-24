@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-24T15:09:47.975Z",
+  "updatedAt": "2026-11-24T15:12:15.213Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.java",
           "sha": "e681959a3df662d8ae68687e9cc70f2b5c50d3b7",
           "lastSyncedAt": "2026-11-24T15:09:37.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "554da1a07494e7d0ee68a6c943b8d1cc22404ef8",
+          "lastSyncedAt": "2026-11-24T15:12:15.213Z"
         }
       ]
     }
