@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T15:10:43.669Z",
+  "updatedAt": "2026-11-24T15:10:51.724Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "137e245626e4fe1d16f6c0bf2a94e7cbe3356f4f",
           "lastSyncedAt": "2026-11-24T15:10:03.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "4f4da246df4d76ac6ce89efb6b531f40d58178ba",
+          "lastSyncedAt": "2026-11-24T15:10:51.724Z"
         }
       ]
     }
