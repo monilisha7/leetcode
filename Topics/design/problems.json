@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-24T15:10:57.467Z",
+  "updatedAt": "2026-11-24T15:11:10.651Z",
   "problems": [
     {
       "frontendId": "155",
@@ -84,6 +84,26 @@
           "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.java",
           "sha": "de7f97eab560f2322623c045423206510b7e9a57",
           "lastSyncedAt": "2026-11-24T15:10:57.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1603",
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "problemName": "1603-design-parking-system",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-parking-system/",
+      "folderPath": "1603-design-parking-system/",
+      "readmePath": "1603-design-parking-system/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1603-design-parking-system.java",
+          "path": "1603-design-parking-system/1603-design-parking-system.java",
+          "sha": "727b1a2d612e5175f6ba615faec5cfe0a1869a3a",
+          "lastSyncedAt": "2026-11-24T15:11:10.651Z"
         }
       ]
     }
