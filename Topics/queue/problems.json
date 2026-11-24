@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue",
+    "tagId": "34"
+  },
+  "updatedAt": "2026-11-24T15:10:57.467Z",
+  "problems": [
+    {
+      "frontendId": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "problemName": "0933-number-of-recent-calls",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "folderPath": "0933-number-of-recent-calls/",
+      "readmePath": "0933-number-of-recent-calls/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0933-number-of-recent-calls.java",
+          "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.java",
+          "sha": "de7f97eab560f2322623c045423206510b7e9a57",
+          "lastSyncedAt": "2026-11-24T15:10:57.467Z"
+        }
+      ]
+    }
+  ]
+}
