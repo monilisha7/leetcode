@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-24T15:06:41.638Z",
+  "problems": [
+    {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "slug": "design-linked-list",
+      "problemName": "0707-design-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+      "folderPath": "0707-design-linked-list/",
+      "readmePath": "0707-design-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0707-design-linked-list.java",
+          "path": "0707-design-linked-list/0707-design-linked-list.java",
+          "sha": "4b0accb6a964b8711ebbf4a9c7446d6bed251d5b",
+          "lastSyncedAt": "2026-11-24T15:06:41.638Z"
+        }
+      ]
+    }
+  ]
+}
