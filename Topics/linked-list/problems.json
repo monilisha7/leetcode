@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-24T15:06:31.787Z",
+  "updatedAt": "2026-11-24T15:06:41.638Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "0f6f01d663ecec2356f2bded53b3d6b696c91f6a",
           "lastSyncedAt": "2026-11-24T15:05:40.575Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "slug": "design-linked-list",
+      "problemName": "0707-design-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+      "folderPath": "0707-design-linked-list/",
+      "readmePath": "0707-design-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0707-design-linked-list.java",
+          "path": "0707-design-linked-list/0707-design-linked-list.java",
+          "sha": "4b0accb6a964b8711ebbf4a9c7446d6bed251d5b",
+          "lastSyncedAt": "2026-11-24T15:06:41.638Z"
         }
       ]
     }
