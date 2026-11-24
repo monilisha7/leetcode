@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-24T15:05:50.055Z",
+  "updatedAt": "2026-11-24T15:06:03.087Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "501e0dbb7ec30e10e3f93185d49c390971ade174",
           "lastSyncedAt": "2026-11-24T15:05:50.055Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "fad3f09c3092613f20876c407caf2b33482fb7af",
+          "lastSyncedAt": "2026-11-24T15:06:03.087Z"
         }
       ]
     }
