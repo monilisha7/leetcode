@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-24T15:10:03.299Z",
+  "updatedAt": "2026-11-24T15:12:07.361Z",
   "problems": [
     {
       "frontendId": "303",
@@ -24,6 +24,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "137e245626e4fe1d16f6c0bf2a94e7cbe3356f4f",
           "lastSyncedAt": "2026-11-24T15:10:03.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "11d5a9d377d686bc19df6d4716d37e5344a03340",
+          "lastSyncedAt": "2026-11-24T15:12:07.361Z"
         }
       ]
     }
