@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T15:06:59.484Z",
+  "updatedAt": "2026-11-24T15:07:11.049Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0015-3sum.cpp",
+          "path": "0015-3sum/0015-3sum.cpp",
+          "sha": "9f85011421f790a703c4df53d96a1b84f20dd898",
+          "lastSyncedAt": "2026-11-24T15:07:11.049Z"
+        }
+      ]
+    },
     {
       "frontendId": "27",
       "title": "Remove Element",
